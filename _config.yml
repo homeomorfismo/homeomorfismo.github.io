@@ -3,6 +3,7 @@ title_left    : "YetAnother"
 title_right   : "MathBlog" # default: ""
 description   : "Yet another math blog, by Gabriel Pinochet Soto. Just some random observations related to my work and passion."
 keywords      : "Math, analysis, FEM, blog"
+domain        : homeomorfismo.github.io/
 url           : https://homeomorfismo.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
