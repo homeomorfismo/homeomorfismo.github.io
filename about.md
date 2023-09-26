@@ -14,7 +14,7 @@ I like math. I like (most of) analysis. My current interests are functional anal
 
 *Currently*, my favorite Theorems are Grothendieck’s characterization of compact sets in normed spaces, Banach’s fixed point principle, and Arzelà-Ascoli Theorem. My favorite proof is Urysohn’s Lemma proof by indexing separating sets with dyadic numbers.
 
-I also like to play the guitar, pretend I can write songs and poetry, read comics, watch shows, and listen to music while biking around the waterfront. I’ve been living in Portland, Oregon, for almost a year. Previously, I lived in Viña del Mar and Rio de Janeiro.
+I also like to play the guitar, pretend I can write songs and poetry, read comics, watch shows, and listen to music while biking around the waterfront. I’ve been living in Portland, Oregon, for more than a year. Previously, I lived in Viña del Mar and Rio de Janeiro.
 
 ## Contact
 
